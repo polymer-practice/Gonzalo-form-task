@@ -1,6 +1,6 @@
 {
-  "name": "adrian2-form-task",
-  "main": "adrian2-form-task.html",
+  "name": "gonzalo-form-task",
+  "main": "gonzalo-form-task.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^2.0.0"
   },
